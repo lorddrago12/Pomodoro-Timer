@@ -55,15 +55,27 @@ body {
 
 /* Title pill */
 .title {
-  font-size: 18px;
-  padding: 8px 20px;
+  
+  display: flex;
+  width: 157px;
+  aspect-ratio: 157/27;
+  padding: 0.25rem 0.625rem;
+  justify-content: center;
+  align-items: center;
 
-  color: #ffffff;
-  background: rgba(182, 120, 255, 0.25);
-  border: 1px solid #b678ff;
-  border-radius: 50px;
+  border-radius: 6.25rem;
+  border: 1px solid #C079FF;
+  background: rgba(210, 164, 255, 0.40);
 
-  font-family: "Pixeboy", monospace;
+  color: var(--white, #FFF);
+
+  /* text styling */
+  font-family: Pixeboy;
+  font-size: 1rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+
 }
 
 /* Big pixel timer */

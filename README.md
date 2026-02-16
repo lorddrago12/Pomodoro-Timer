@@ -75,7 +75,6 @@ pomodoro-timer/
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## Contributing
+## Preview 
 
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
-
+<img width="350" height="307" alt="image" src="https://github.com/user-attachments/assets/510819fa-e061-417b-8f52-4924da6c5812" />
